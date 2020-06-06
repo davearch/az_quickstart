@@ -46,7 +46,8 @@
             },
             "drupal/core": {
                 "ajax css load order issue": "https://www.drupal.org/files/issues/2020-06-05/1461322-25.patch",
-                "Layout builder revisions issue": "https://www.drupal.org/files/issues/2019-06-17/3033516-17.patch"
+                "Layout builder revisions issue": "https://www.drupal.org/files/issues/2019-06-17/3033516-17.patch",
+                "phpstan phpunit errors": "https://www.drupal.org/files/issues/2020-05-28/3143604-2.patch"
             },
             "drupal/ds": {
                 "Remove drush plugin": "https://git.drupalcode.org/project/ds/commit/c8db6ed6f5f2a543f9fe50d440a5dd94a1f13fae.diff"
