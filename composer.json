@@ -23,7 +23,7 @@
         "php": ">=7.0",
         "composer/installers": "1.7.0",
         "cweagans/composer-patches": "1.6.7",
-        "drupal/background_image_formatter": "1.4",
+        "drupal/background_image_formatter": "1.x-dev#2d56d1e2bd2b423a1f552574aed325730b96dff1",
         "drupal/bootstrap_barrio": "4.23",
         "drupal/cas": "1.x-dev#afa0152d7ba91ab1ba4c86d899579502c0d1c48f",
         "drupal/core-recommended": "9.0.0",
