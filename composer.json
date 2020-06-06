@@ -50,6 +50,9 @@
             },
             "drupal/ds": {
                 "Remove drush plugin": "https://git.drupalcode.org/project/ds/commit/c8db6ed6f5f2a543f9fe50d440a5dd94a1f13fae.diff"
+            },
+            "drupal/field_group": {
+                "Prepare field_group for Drupal 9": "https://www.drupal.org/files/issues/2020-04-14/3109552-30.patch"
             }
         }
     }
