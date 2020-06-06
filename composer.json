@@ -38,6 +38,9 @@
     },
     "extra": {
         "patches": {
+            "drupal/background_image_formatter": {
+                "d9 compatibility": "https://www.drupal.org/files/issues/2020-04-28/3131659-2.patch"
+            },
             "drupal/cas": {
                 "getstorage-deprecation": "https://www.drupal.org/files/issues/2020-05-20/3138426-2.patch"
             },
